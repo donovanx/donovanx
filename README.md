@@ -1,1 +1,1 @@
-Economics students with a passion for programming.
+Economics student with a passion for programming.
